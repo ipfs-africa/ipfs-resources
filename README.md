@@ -50,6 +50,6 @@ File uploaders or pinning services provide one of the simplest steps to getting 
 ## Get Involved 👩‍💻
 
 - [Contribution Guidelines](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md) 
-- [Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md) 
+- [Code of Conduct](https://github.com/nairobi-ipfs/code-of-conduct) 
 
 
