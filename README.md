@@ -44,7 +44,7 @@ File uploaders or pinning services provide one of the simplest steps to getting 
 - [Nairobi IPFS Blog]()
 - [Youtube](https://www.youtube.com/channel/UCdjsUXJ3QawK4O5L1kqqsew)
 - [Twitter (@IPFSBot)](https://twitter.com/IPFSbot)
-- [Twitter (@nairobi_ipfs)](https://twitter.com/ipfs_africa)
+- [Twitter (@IPFS Africa)](https://twitter.com/ipfs_africa)
 - [Awesome IPFS](https://awesome.ipfs.io/)
 
 ## Get Involved 👩‍💻
