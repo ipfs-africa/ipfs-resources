@@ -41,7 +41,6 @@ File uploaders or pinning services provide one of the simplest steps to getting 
 
 - [Discussion Forum](https://discuss.ipfs.io/)
 - [IPFS Blog (Official)](https://ipfs.io/blog/)
-- [Nairobi IPFS Blog]()
 - [Youtube](https://www.youtube.com/channel/UCdjsUXJ3QawK4O5L1kqqsew)
 - [Twitter (@IPFSBot)](https://twitter.com/IPFSbot)
 - [Twitter (@IPFS Africa)](https://twitter.com/ipfs_africa)
